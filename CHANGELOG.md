@@ -1,6 +1,14 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.7.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.8.0...5.x)
+
+## [v5.8.0](https://github.com/laravel/telescope/compare/v5.7.0...v5.8.0) - 2025-05-26
+
+* Update logo by [@iamdavidhill](https://github.com/iamdavidhill) in https://github.com/laravel/telescope/pull/1581
+* Bump http-proxy-middleware from 2.0.6 to 2.0.9 by [@dependabot](https://github.com/dependabot) in https://github.com/laravel/telescope/pull/1584
+* Bump axios from 1.7.4 to 1.8.2 by [@dependabot](https://github.com/dependabot) in https://github.com/laravel/telescope/pull/1585
+* Bump elliptic from 6.6.0 to 6.6.1 by [@dependabot](https://github.com/dependabot) in https://github.com/laravel/telescope/pull/1586
+* [5.x] Add ignore option to CacheWatcher by [@mostafaznv](https://github.com/mostafaznv) in https://github.com/laravel/telescope/pull/1594
 
 ## [v5.7.0](https://github.com/laravel/telescope/compare/v5.6.0...v5.7.0) - 2025-03-27
 
