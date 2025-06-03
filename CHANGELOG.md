@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.8.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.9.0...5.x)
+
+## [v5.9.0](https://github.com/laravel/telescope/compare/v5.8.0...v5.9.0) - 2025-06-03
+
+* Fix broken preview image in `README.md` by [@sajjadhossainshohag](https://github.com/sajjadhossainshohag) in https://github.com/laravel/telescope/pull/1596
+* feat: Added `laravel:reverb:restart` to CacheWatcher default ignore list by [@Hyrran](https://github.com/Hyrran) in https://github.com/laravel/telescope/pull/1597
 
 ## [v5.8.0](https://github.com/laravel/telescope/compare/v5.7.0...v5.8.0) - 2025-05-26
 
