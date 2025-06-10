@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.9.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.9.1...5.x)
+
+## [v5.9.1](https://github.com/laravel/telescope/compare/v5.9.0...v5.9.1) - 2025-06-10
+
+* [5.x] Fixes non-needed update on `telescope_entries` by [@nunomaduro](https://github.com/nunomaduro) in https://github.com/laravel/telescope/pull/1599
 
 ## [v5.9.0](https://github.com/laravel/telescope/compare/v5.8.0...v5.9.0) - 2025-06-03
 
