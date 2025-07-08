@@ -1,6 +1,14 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.9.1...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.10.0...5.x)
+
+## [v5.10.0](https://github.com/laravel/telescope/compare/v5.9.1...v5.10.0) - 2025-07-07
+
+* Migrate to Vite by [@nckrtl](https://github.com/nckrtl) in https://github.com/laravel/telescope/pull/1598
+* Fix workbench integration and fix `compile-assets` build by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/telescope/pull/1601
+* Bump esbuild and vite by [@dependabot](https://github.com/dependabot) in https://github.com/laravel/telescope/pull/1600
+* Apply PSR-3 replacements in Telescope logs by [@DragosMocrii](https://github.com/DragosMocrii) in https://github.com/laravel/telescope/pull/1604
+* Feature/show gates response message by [@Geelik](https://github.com/Geelik) in https://github.com/laravel/telescope/pull/1570
 
 ## [v5.9.1](https://github.com/laravel/telescope/compare/v5.9.0...v5.9.1) - 2025-06-10
 
