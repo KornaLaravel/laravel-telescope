@@ -1,6 +1,13 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.10.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.10.1...5.x)
+
+## [v5.10.1](https://github.com/laravel/telescope/compare/v5.10.0...v5.10.1) - 2025-07-22
+
+* [5.x] Use match expressions in place of switch statements by [@xurshudyan](https://github.com/xurshudyan) in https://github.com/laravel/telescope/pull/1605
+* Fix batch function call on null by [@Davitig](https://github.com/Davitig) in https://github.com/laravel/telescope/pull/1606
+* Fix missing `_` import and supported Vite by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/telescope/pull/1609
+* Bump form-data from 4.0.2 to 4.0.4 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/telescope/pull/1613
 
 ## [v5.10.0](https://github.com/laravel/telescope/compare/v5.9.1...v5.10.0) - 2025-07-07
 
