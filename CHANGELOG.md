@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.10.1...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.10.2...5.x)
+
+## [v5.10.2](https://github.com/laravel/telescope/compare/v5.10.1...v5.10.2) - 2025-07-24
+
+* [5.x] Fix compile assets by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/telescope/pull/1616
 
 ## [v5.10.1](https://github.com/laravel/telescope/compare/v5.10.0...v5.10.1) - 2025-07-22
 
