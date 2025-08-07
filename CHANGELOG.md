@@ -1,6 +1,12 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.10.2...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.11.0...5.x)
+
+## [v5.11.0](https://github.com/laravel/telescope/compare/v5.10.2...v5.11.0) - 2025-08-03
+
+* [5.x] Fix Streaming Issue by [@michaelnabil230](https://github.com/michaelnabil230) in https://github.com/laravel/telescope/pull/1621
+* [5.x] Include driver in Query content to enable proper formatting by [@cosmastech](https://github.com/cosmastech) in https://github.com/laravel/telescope/pull/1620
+* [5.x] comments fix by [@cosmastech](https://github.com/cosmastech) in https://github.com/laravel/telescope/pull/1619
 
 ## [v5.10.2](https://github.com/laravel/telescope/compare/v5.10.1...v5.10.2) - 2025-07-24
 
