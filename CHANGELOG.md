@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.11.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.11.1...5.x)
+
+## [v5.11.1](https://github.com/laravel/telescope/compare/v5.11.0...v5.11.1) - 2025-08-14
+
+* Remove `telescope-assets` publishing by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/telescope/pull/1624
+* [5.x] Rewind stream after getting the body by [@cosmastech](https://github.com/cosmastech) in https://github.com/laravel/telescope/pull/1625
 
 ## [v5.11.0](https://github.com/laravel/telescope/compare/v5.10.2...v5.11.0) - 2025-08-03
 
