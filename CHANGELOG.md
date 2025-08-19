@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.11.1...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.11.2...5.x)
+
+## [v5.11.2](https://github.com/laravel/telescope/compare/v5.11.1...v5.11.2) - 2025-08-16
+
+* [5.x] Removed redundant default values from config file by [@weshooper](https://github.com/weshooper) in https://github.com/laravel/telescope/pull/1626
 
 ## [v5.11.1](https://github.com/laravel/telescope/compare/v5.11.0...v5.11.1) - 2025-08-14
 
