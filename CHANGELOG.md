@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.11.2...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.11.3...5.x)
+
+## [v5.11.3](https://github.com/laravel/telescope/compare/v5.11.2...v5.11.3) - 2025-08-21
+
+* Fix missing lodash on Dump screen by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/telescope/pull/1628
 
 ## [v5.11.2](https://github.com/laravel/telescope/compare/v5.11.1...v5.11.2) - 2025-08-16
 
