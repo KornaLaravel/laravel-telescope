@@ -1,6 +1,12 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.11.3...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.11.4...5.x)
+
+## [v5.11.4](https://github.com/laravel/telescope/compare/v5.11.3...v5.11.4) - 2025-09-12
+
+* [5.x] multiline ternary formatting by [@browner12](https://github.com/browner12) in https://github.com/laravel/telescope/pull/1631
+* fix: treat sqlsrv as valid 'transactsql' type for sql-formatter by [@iBotPeaches](https://github.com/iBotPeaches) in https://github.com/laravel/telescope/pull/1633
+* Bump vite from 5.4.19 to 5.4.20 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/telescope/pull/1635
 
 ## [v5.11.3](https://github.com/laravel/telescope/compare/v5.11.2...v5.11.3) - 2025-08-21
 
