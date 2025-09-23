@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.11.4...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.12.0...5.x)
+
+## [v5.12.0](https://github.com/laravel/telescope/compare/v5.11.4...v5.12.0) - 2025-09-18
+
+* ignore laravel boost routes by [@zackAJ](https://github.com/zackAJ) in https://github.com/laravel/telescope/pull/1636
 
 ## [v5.11.4](https://github.com/laravel/telescope/compare/v5.11.3...v5.11.4) - 2025-09-12
 
