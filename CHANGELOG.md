@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.12.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.13.0...5.x)
+
+## [v5.13.0](https://github.com/laravel/telescope/compare/v5.12.0...v5.13.0) - 2025-09-30
+
+* [5.x] Introduce pre-package uninstall listener by [@cosmastech](https://github.com/cosmastech) in https://github.com/laravel/telescope/pull/1641
 
 ## [v5.12.0](https://github.com/laravel/telescope/compare/v5.11.4...v5.12.0) - 2025-09-18
 
