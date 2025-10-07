@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.13.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.14.0...5.x)
+
+## [v5.14.0](https://github.com/laravel/telescope/compare/v5.13.0...v5.14.0) - 2025-10-06
+
+* [5.x] chunk on number of tags rather than number of entries by [@cosmastech](https://github.com/cosmastech) in https://github.com/laravel/telescope/pull/1644
 
 ## [v5.13.0](https://github.com/laravel/telescope/compare/v5.12.0...v5.13.0) - 2025-09-30
 
