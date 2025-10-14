@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.14.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.14.1...5.x)
+
+## [v5.14.1](https://github.com/laravel/telescope/compare/v5.14.0...v5.14.1) - 2025-10-12
+
+* Fix: Record IncomingExceptionEntry with binary content by [@jlswanson28694](https://github.com/jlswanson28694) in https://github.com/laravel/telescope/pull/1646
+* [5.x] Simplify control flow by [@AhmedAlaa4611](https://github.com/AhmedAlaa4611) in https://github.com/laravel/telescope/pull/1645
 
 ## [v5.14.0](https://github.com/laravel/telescope/compare/v5.13.0...v5.14.0) - 2025-10-06
 
