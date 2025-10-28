@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.14.1...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.15.0...5.x)
+
+## [v5.15.0](https://github.com/laravel/telescope/compare/v5.14.1...v5.15.0) - 2025-10-23
+
+* Bump vite from 5.4.20 to 5.4.21 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/telescope/pull/1649
+* feat: add shouldIgnoreHosts method to filter HTTP client requests by host by [@artengin](https://github.com/artengin) in https://github.com/laravel/telescope/pull/1650
 
 ## [v5.14.1](https://github.com/laravel/telescope/compare/v5.14.0...v5.14.1) - 2025-10-12
 
