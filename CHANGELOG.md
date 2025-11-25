@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.15.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.15.1...5.x)
+
+## [v5.15.1](https://github.com/laravel/telescope/compare/v5.15.0...v5.15.1) - 2025-11-25
+
+* [5.x] PHP 8.5 Compatibility by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/telescope/pull/1658
 
 ## [v5.15.0](https://github.com/laravel/telescope/compare/v5.14.1...v5.15.0) - 2025-10-23
 
