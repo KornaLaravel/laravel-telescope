@@ -13,23 +13,19 @@ use Illuminate\Support\Facades\Event;
 use Laravel\Telescope\EntryType;
 use Laravel\Telescope\Tests\FeatureTestCase;
 use Laravel\Telescope\Watchers\EventWatcher;
+use Orchestra\Testbench\Attributes\WithConfig;
+use PHPUnit\Framework\Attributes\DataProvider;
 
+#[WithConfig('telescope.watchers', [
+    EventWatcher::class => [
+        'enabled' => true,
+        'ignore' => [
+            IgnoredEvent::class,
+        ],
+    ],
+])]
 class EventWatcherTest extends FeatureTestCase
 {
-    protected function getEnvironmentSetUp($app)
-    {
-        parent::getEnvironmentSetUp($app);
-
-        $app->get('config')->set('telescope.watchers', [
-            EventWatcher::class => [
-                'enabled' => true,
-                'ignore' => [
-                    IgnoredEvent::class,
-                ],
-            ],
-        ]);
-    }
-
     public function test_event_watcher_registers_any_events()
     {
         Event::listen(DummyEvent::class, function ($payload) {
@@ -125,6 +121,7 @@ class EventWatcherTest extends FeatureTestCase
     /**
      * @dataProvider formatListenersProvider
      */
+    #[DataProvider('formatListenersProvider')]
     public function test_format_listeners($listener, $formatted)
     {
         Event::listen(DummyEvent::class, $listener);
