@@ -1,6 +1,12 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.15.1...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.16.0...5.x)
+
+## [v5.16.0](https://github.com/laravel/telescope/compare/v5.15.1...v5.16.0) - 2025-12-09
+
+* refactor(reflection): remove deprecated setAccessible usage by [@artengin](https://github.com/artengin) in https://github.com/laravel/telescope/pull/1661
+* [5.x] Update .gitignore by [@jackbayliss](https://github.com/jackbayliss) in https://github.com/laravel/telescope/pull/1664
+* feat: add duration column to HTTP Client in related entries by [@florenmoya](https://github.com/florenmoya) in https://github.com/laravel/telescope/pull/1666
 
 ## [v5.15.1](https://github.com/laravel/telescope/compare/v5.15.0...v5.15.1) - 2025-11-25
 
