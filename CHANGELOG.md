@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.16.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.16.1...5.x)
+
+## [v5.16.1](https://github.com/laravel/telescope/compare/v5.16.0...v5.16.1) - 2025-12-30
+
+* fix: ignore track chrome devtools route by [@haminh7036](https://github.com/haminh7036) in https://github.com/laravel/telescope/pull/1669
+* Fix dumps screen missing sf-js-enabled css class name by [@haminh7036](https://github.com/haminh7036) in https://github.com/laravel/telescope/pull/1671
 
 ## [v5.16.0](https://github.com/laravel/telescope/compare/v5.15.1...v5.16.0) - 2025-12-09
 
