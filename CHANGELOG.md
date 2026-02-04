@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.16.1...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.17.0...5.x)
+
+## [v5.17.0](https://github.com/laravel/telescope/compare/v5.16.1...v5.17.0) - 2026-01-30
+
+* Bump lodash from 4.17.21 to 4.17.23 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/telescope/pull/1676
+* Update gate definition to type-hint User model by [@dipesh79](https://github.com/dipesh79) in https://github.com/laravel/telescope/pull/1677
 
 ## [v5.16.1](https://github.com/laravel/telescope/compare/v5.16.0...v5.16.1) - 2025-12-30
 
