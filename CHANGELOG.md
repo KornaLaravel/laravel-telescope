@@ -1,6 +1,13 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.17.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/5.18.0...5.x)
+
+## [5.18.0](https://github.com/laravel/telescope/compare/v5.17.0...5.18.0) - 2026-02-20
+
+* Use cascadeOnDelete() to fix PHPStan error in migration by [@monteiro](https://github.com/monteiro) in https://github.com/laravel/telescope/pull/1682
+* [5.x] Supports restricting private tunnel requests for `local` environment by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/telescope/pull/1674
+* Add missing limit(-1) to QueueController batch query by [@EhabAmawi](https://github.com/EhabAmawi) in https://github.com/laravel/telescope/pull/1684
+* Laravel 13.x Compatibility by [@laravel-shift](https://github.com/laravel-shift) in https://github.com/laravel/telescope/pull/1686
 
 ## [v5.17.0](https://github.com/laravel/telescope/compare/v5.16.1...v5.17.0) - 2026-01-30
 
