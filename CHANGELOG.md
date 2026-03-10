@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/5.18.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.18.0...5.x)
+
+## [v5.18.0](https://github.com/laravel/telescope/compare/5.18.0...v5.18.0) - 2026-03-05
+
+* Reduce risks of `localStorage` collision by [@meduzen](https://github.com/meduzen) in https://github.com/laravel/telescope/pull/1687
+* Bump immutable from 5.1.2 to 5.1.5 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/telescope/pull/1689
 
 ## [5.18.0](https://github.com/laravel/telescope/compare/v5.17.0...5.18.0) - 2026-02-20
 
