@@ -1,6 +1,12 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.18.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.19.0...5.x)
+
+## [v5.19.0](https://github.com/laravel/telescope/compare/v5.18.0...v5.19.0) - 2026-03-24
+
+* Update Symfony console and var-dumper versions to support v8 by [@HichemTab-tech](https://github.com/HichemTab-tech) in https://github.com/laravel/telescope/pull/1699
+* Fix: Hardcoded config in Service Provider by [@webard](https://github.com/webard) in https://github.com/laravel/telescope/pull/1702
+* [5.x] Fix workflow YAML syntax and Laravel 13 CSRF test failures by [@JoshSalway](https://github.com/JoshSalway) in https://github.com/laravel/telescope/pull/1703
 
 ## [v5.18.0](https://github.com/laravel/telescope/compare/5.18.0...v5.18.0) - 2026-03-05
 
