@@ -1,6 +1,12 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.19.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.20.0...5.x)
+
+## [v5.20.0](https://github.com/laravel/telescope/compare/v5.19.0...v5.20.0) - 2026-04-06
+
+* Bump picomatch from 2.3.1 to 2.3.2 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/telescope/pull/1704
+* Add `.npmrc` file by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/telescope/pull/1707
+* [5.x] Fix npm audit vulnerabilities (lodash, axios, rollup) by [@JoshSalway](https://github.com/JoshSalway) in https://github.com/laravel/telescope/pull/1710
 
 ## [v5.19.0](https://github.com/laravel/telescope/compare/v5.18.0...v5.19.0) - 2026-03-24
 
