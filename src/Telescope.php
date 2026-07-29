@@ -803,19 +803,6 @@ class Telescope
     }
 
     /**
-     * Set the CSP nonce to use for style and script tags.
-     *
-     * @param  string  $nonce
-     * @return static
-     */
-    public static function cspNonce($nonce)
-    {
-        static::$nonceAttribute = " nonce=\"{$nonce}\"";
-
-        return new static;
-    }
-
-    /**
      * Register the Telescope user avatar callback.
      *
      * @param  \Closure  $callback
@@ -893,5 +880,18 @@ class Telescope
             'timezone' => config('app.timezone'),
             'recording' => ! cache('telescope:pause-recording'),
         ];
+    }
+
+    /**
+     * Set the CSP nonce to use for style and script tags.
+     *
+     * @param  string  $nonce
+     * @return static
+     */
+    public static function cspNonce($nonce)
+    {
+        static::$nonceAttribute = " nonce=\"{$nonce}\"";
+
+        return new static;
     }
 }
