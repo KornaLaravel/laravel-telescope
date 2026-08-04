@@ -1,6 +1,13 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.21.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.22.0...5.x)
+
+## [v5.22.0](https://github.com/laravel/telescope/compare/v5.21.0...v5.22.0) - 2026-07-29
+
+* Bump actions/checkout from 7.0.0 to 7.0.1 in the github-actions group by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/telescope/pull/1747
+* Bump immutable from 5.1.5 to 5.1.9 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/telescope/pull/1748
+* Bump postcss from 8.5.4 to 8.5.23 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/telescope/pull/1749
+* [5.x] Add CSP nonce support by [@roger-hermasch](https://github.com/roger-hermasch) in https://github.com/laravel/telescope/pull/1752
 
 ## [v5.21.0](https://github.com/laravel/telescope/compare/v5.20.0...v5.21.0) - 2026-07-20
 
