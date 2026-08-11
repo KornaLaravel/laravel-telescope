@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.22.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.22.1...5.x)
+
+## [v5.22.1](https://github.com/laravel/telescope/compare/v5.22.0...v5.22.1) - 2026-08-05
+
+* Fix BatchWatcher::recordBatch docblock copied from JobWatcher by [@darkdi](https://github.com/darkdi) in https://github.com/laravel/telescope/pull/1753
 
 ## [v5.22.0](https://github.com/laravel/telescope/compare/v5.21.0...v5.22.0) - 2026-07-29
 
