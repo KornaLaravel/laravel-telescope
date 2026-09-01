@@ -1,6 +1,14 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.22.1...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.23.0...5.x)
+
+## [v5.23.0](https://github.com/laravel/telescope/compare/v5.22.1...v5.23.0) - 2026-08-27
+
+* Escape CSP nonce attribute value by [@iliaal](https://github.com/iliaal) in https://github.com/laravel/telescope/pull/1756
+* Test improvements by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/telescope/pull/1759
+* Supports Guzzle 8 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/telescope/pull/1760
+* Supports PHPStan 2 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/telescope/pull/1761
+* Fix Telescope::css() return type docblock by [@Maggomann](https://github.com/Maggomann) in https://github.com/laravel/telescope/pull/1762
 
 ## [v5.22.1](https://github.com/laravel/telescope/compare/v5.22.0...v5.22.1) - 2026-08-05
 
