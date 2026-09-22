@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.24.0...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.25.0...5.x)
+
+## [v5.25.0](https://github.com/laravel/telescope/compare/v5.24.0...v5.25.0) - 2026-09-09
+
+* Add full UUID option to telescope:list command by [@ylynfatt](https://github.com/ylynfatt) in https://github.com/laravel/telescope/pull/1766
 
 ## [v5.24.0](https://github.com/laravel/telescope/compare/v5.23.0...v5.24.0) - 2026-09-08
 
